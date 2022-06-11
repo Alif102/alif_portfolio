@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/alif_portfolio/static/css/main.802eb6bd.css",
+    "main.js": "/alif_portfolio/static/js/main.ec0becc4.js",
+    "static/media/mypic1.jpg": "/alif_portfolio/static/media/mypic1.a2f550da9ff15abf3703.jpg",
+    "static/media/carsam2.jpg": "/alif_portfolio/static/media/carsam2.1d4064e0402a99675e78.jpg",
+    "static/media/wd1.jpg": "/alif_portfolio/static/media/wd1.bb282c0b03c2c135978a.jpg",
+    "static/media/bg1.jpg": "/alif_portfolio/static/media/bg1.1616647ed5631565689a.jpg",
+    "static/media/serv2.jpg": "/alif_portfolio/static/media/serv2.09a1c2880410873bd418.jpg",
+    "static/media/conpic1.jpg": "/alif_portfolio/static/media/conpic1.8433c81e142e66a74635.jpg",
+    "static/media/ih2.jpg": "/alif_portfolio/static/media/ih2.f4d3cb1a5f12a2a22f7b.jpg",
+    "static/media/bgwd.jpg": "/alif_portfolio/static/media/bgwd.30a00c6eed54a8345bff.jpg",
+    "static/media/wdv1.jpg": "/alif_portfolio/static/media/wdv1.41a3d8cf60650ae30d91.jpg",
+    "static/media/bgds.jpg": "/alif_portfolio/static/media/bgds.8408abc4e0b400351af5.jpg",
+    "static/media/bgd4.jpg": "/alif_portfolio/static/media/bgd4.c14d8bf7f1fc1b7a6dd4.jpg",
+    "static/media/slick.svg": "/alif_portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/alif_portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/alif_portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/alif_portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/alif_portfolio/index.html",
+    "main.802eb6bd.css.map": "/alif_portfolio/static/css/main.802eb6bd.css.map",
+    "main.ec0becc4.js.map": "/alif_portfolio/static/js/main.ec0becc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.802eb6bd.css",
+    "static/js/main.ec0becc4.js"
+  ]
+}
