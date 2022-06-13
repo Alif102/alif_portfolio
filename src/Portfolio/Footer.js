@@ -9,7 +9,7 @@ const Footer = () => {
             <div className='col-lg-10 col-sm-10 mx-auto'>
                 <div className='row footer-div'>
                     <div className='col-lg-6 col-sm-5 mx-auto'>
-                        <h1 className='footer-h1'>All Rights Reserved © 2022 <span className='footer-span'>Alif Ahmed</span></h1>
+                        <h1 className='footer-h1'>All Rights Reserved © 2022 <span className='footer-span'>ALIF AHMED</span></h1>
                     </div>
                     <div className='col-lg-6 mx-auto'>
                     
