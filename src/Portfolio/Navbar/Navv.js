@@ -1,12 +1,13 @@
 import React from 'react'
 import {Navbar, Nav, Container } from 'react-bootstrap'
 import {MdDeveloperMode} from 'react-icons/md'
+
 const Navv = () => {
   return (
     <div>
         <Navbar bg="#071314" variant="dark" expand="lg">
             <Container>
-                <Navbar.Brand href="#home">WebDev. <MdDeveloperMode size={35}/></Navbar.Brand>
+                <Navbar.Brand to="#home">WebDev. <MdDeveloperMode size={35}/></Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="nav-cls">

@@ -13,8 +13,8 @@ import Fun from '../Fun-Facts/FunFacts'
 
 const Service = () => {
   return (
-    <div>
-        <h3 id='#service' className='ser-h3'>SERVICES</h3>
+    <div id='service'>
+        <h3 className='ser-h3'>SERVICES</h3>
 
         
 
