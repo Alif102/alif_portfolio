@@ -36,7 +36,7 @@ const MyWorkData = () => {
         </Container>
 
         <section class="breweries" id="breweries">
-    <ul>
+    <ul id='projects'>
       <li>
         <figure>
          
@@ -63,7 +63,7 @@ const MyWorkData = () => {
           <img src={ih2} alt='project-img'/>
           <figcaption><h3>TravelKnowledge Website</h3></figcaption>
         </figure>
-        <p>Use ReactJs and React Router to build a simple landing page. ReactJs Simple TravelKnowledge Landing Page. Website redesign for travel consultant based in Bangladesh that sells tour packages, air tickets.</p>
+        <p>Travel website  discover ,plan and book your perfect trip with expert advice,travel guides and destination information Use ReactJs and React Router to build a simple landing page. ReactJs Simple TravelKnowledge Landing Page. Website redesign for travel consultant based in Bangladesh.</p>
         <button className='livebtn' onClick={()=> openInNewTab('https://alif102.github.io/travelknowledge-webReact/')}>Live Demo</button>
       </li>
     </ul>

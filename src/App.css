@@ -1092,6 +1092,16 @@
   .nav-cls{
     text-align: center;
   }
+  .breweries{
+    text-align: center;
+
+  }
+  #projects{
+    text-align: center;
+  }
+  .service1{
+    text-align: center;
+  }
   
   
 }
@@ -1154,11 +1164,22 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   grid-gap: 1rem;
+ 
 }
 
 .breweries > ul > li {
   border: 1px solid #E2E2E2;
   border-radius: .5rem;
+  background: linear-gradient(to top, rgb(255,45,45), rgb(30, 13, 44) 50%);
+  background-size: 100% 200%;
+  transition: all, .8s;
+}
+.breweries > ul > li:hover{
+  background-position: left bottom;
+  color: white;
+  border: none;
+  box-shadow: 0 0 20px;
+
 }
 
 .breweries > ul > li > figure {

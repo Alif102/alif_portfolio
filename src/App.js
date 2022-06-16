@@ -35,6 +35,7 @@ function App() {
       <Navv/>
       <Profile/>
       <SlickCarousel/>
+
       
       <AboutMe/>
       
